@@ -2,7 +2,7 @@
 
 ### to use this script, run the following:
 #$ wget repo.mouseimaging.ca/repo/Pydpiper_test_files/test-data.tar.gz
-#$ tar xf test-data.tar test-data
+#$ tar xf test-data.tar.gz test-data
 # ... alter the config file in the test-data directory as appropriate ...
 #$ test-script.py /path/to/test-data --working_dir=/directory/to/run/pipelines
 
